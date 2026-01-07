@@ -1,1 +1,5 @@
-package design_pattern
+package main
+
+func main() {
+
+}
